@@ -1,21 +1,41 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 
 namespace Bank
 {
     class Program
     {
-        
-        static void Main(string[] args)
-        {
-            char key = Console.ReadKey(true).KeyChar;
-            if (key == 'w') { 
-            
-            } else if(key == 's')
-            {
 
-            }
-            Console.WriteLine();
+        
+        {
+       
+            
+            Console.WriteLine("проверить счетчик баланса");
+                       
+
+                Console.WriteLine("вывод средств");
+
+            Console.WriteLine("перевод средств ");
+
+            Console.WriteLine("пополнение счёта");
+
+           
+
+            
+
+
+
+
+
+
+ 
+
+            Console.Read();
         }
     }
 }
+
+
+
